@@ -16,7 +16,7 @@
 
     onMount(async () => {
         const title = document.getElementById('title');
-        const titleText = 'Kees Nachbar';
+        const titleText = 'Kees Nachbahr';
         await typewriter(title, titleText.split(''));
 
         const line1 = document.getElementById('line1');
